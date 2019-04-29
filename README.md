@@ -9,7 +9,7 @@ This week, we'll be working extensively to sharpen our layout skills. The basic 
 ### How do the contents of these two layouts relate to each other?
 
 * The nav sidebar on the desktop layout should collapse to abbreviated words or icons in the subheader of the mobile layout.
-* The login/signup link should be a user profile icon in the mobile layout.
+* The login/signup link should be a [generic user profile icon](https://duckduckgo.com/?q=profile+icon&t=canonical&atb=v165-1&ia=images&iax=images) in the mobile layout.
 * The main content should be in two or more columns in the desktop, then should collapse to one in the mobile layout.
 
 
