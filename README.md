@@ -22,7 +22,7 @@ I would recommend you make your portfolio follow this classic layout. If you wan
 ### Stretch goals!
 
 * Make the navbar float with the view in desktop view. In other words, when we scroll down the page, our title bar should get scrolled past, but the navbar would stay on the side, with our links viisble, no matter how far we scroll.
-* Make the navbar a (floating) hamburger menu for the mobile view.
+* Make the navbar a (floating) hamburger menu for the mobile view. Instead of a menu that takes up horizontal room, it should collapse to a [hamburger menu](http://) unless the user clicks/taps it, in which case it expands and the user can see the options.
 * make login/signup drop-down that tabs between login and signup
 * make login (whether checking pw or not) unlock a feature... appearance of button for admin page, an admin page that won't load unless they're logged in
 * make pw-checking backend, store new username/pw for signup or check current pw against username for login
