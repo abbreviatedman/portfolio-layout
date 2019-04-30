@@ -22,7 +22,10 @@ I would recommend you make your portfolio follow this classic layout. If you wan
 ### Stretch goals!
 
 * Make the navbar float with the view in desktop view. In other words, when we scroll down the page, our title bar should get scrolled past, but the navbar would stay on the side, with our links viisble, no matter how far we scroll.
-* Make the navbar a hamburger menu for the mobile view (which should float just like in the previous stretch goal). Instead of a menu that takes up horizontal room, it should collapse to a hamburger menu, like so: ![hamburger menu](https://i0.wp.com/codemyui.com/wp-content/uploads/2018/04/Pure-CSS-Hamburger-Menu-Slide-In.gif?fit=880%2C440&ssl=1)
+* Make the navbar a hamburger menu for the mobile view (which should float just like in the previous stretch goal). Instead of a menu that takes up horizontal room, it should collapse to a hamburger menu, like so:
+
+    ![hamburger menu](https://i0.wp.com/codemyui.com/wp-content/uploads/2018/04/Pure-CSS-Hamburger-Menu-Slide-In.gif?fit=880%2C440&ssl=1)
+
     It doesn't, of course, have to be CSS only, as that example is. You can do it through JS if you prefer. Or some combination of the two! Whatever tools you'd like to use for this.
 * Make our login/signup link a drop-down menu that tabs between login and signup options. The drop-down should activate on click of the login/signup link and disappear if we click anywhere else.
 * Make whether they're logged in or not unlock a feature. One easy example would be be a hidden button for admin page, but you could expand this so that the button leads to an _actual_ admin page. This doesn't require a back-end yet; we don't necessarily need to check the login against anything yet!
