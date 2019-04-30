@@ -6,6 +6,7 @@ This week, we'll be working extensively to sharpen our layout skills. The basic 
 
 ![Desktop and Mobile Layouts](https://raw.githubusercontent.com/abbreviatedman/portfolio-layout/master/layouts.jpg)
 
+
 ### How do the contents of these two layouts relate to each other?
 
 * The nav sidebar on the desktop layout should collapse to abbreviated words or icons in the subheader of the mobile layout.
@@ -17,4 +18,10 @@ This week, we'll be working extensively to sharpen our layout skills. The basic 
 
 I would recommend you make your portfolio follow this classic layout. If you want to make a copy of the portfolio repo and apply these layouts to that copy, feel free. You could also apply your layouts to new content or some lorem ipsum. The power is yours.
 
+
 ### Stretch goals!
+
+* make mobile navbar hamburger menu
+* make login/signup drop-down that tabs between login and signup
+* make login (whether checking pw or not) unlock a feature... appearance of button for admin page, an admin page that won't load unless they're logged in
+* make pw-checking backend, store new username/pw for signup or check current pw against username for login
